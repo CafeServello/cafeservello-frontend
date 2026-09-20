@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\wwwroot\\css\\main\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\wwwroot\\css\\main\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css",
+              "RelativeDocumentMoniker": "cafeservello-client\\wwwroot\\css\\main\\app.css",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css",
+              "RelativeToolTip": "cafeservello-client\\wwwroot\\css\\main\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-11T15:00:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css",
+              "RelativeDocumentMoniker": "cafeservello-client\\wwwroot\\css\\main\\site.css",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css",
+              "RelativeToolTip": "cafeservello-client\\wwwroot\\css\\main\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-11T14:42:41.105Z",
+              "EditorCaption": ""
             }
           ]
         }

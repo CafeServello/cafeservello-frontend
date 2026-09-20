@@ -41,3 +41,15 @@ C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-UI\obj\Debug\n
 C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\staticwebassets.build.json

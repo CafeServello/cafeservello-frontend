@@ -1,21 +1,17 @@
 ﻿@import url("../shared/letters/letter-size.css");
+@import url("../shared/themes/themes.css");
 
-:root {
-    --bg: #0D1117;
-    --text: white;
-    --border: 1px solid rgba(255, 255, 255, 0.08);
-    --border-main: white;
-    --bg-bottom: white;
-    --shadow: none;
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300 !important;
 }
 
-.light {
-    --bg: #c6c6c6;
-    --text: black;
-    --border: 1px solid darkgray;
-    --bg-bottom: white;
-    --border-main: #c6c6c6;
-    --shadow: 0px 0px 2px rgba(1,1,1, 0.35);
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 button {
