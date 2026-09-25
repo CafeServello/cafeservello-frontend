@@ -120,3 +120,4 @@ C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-U
 C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\refint\cafeservello-UI.dll
 C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\cafeservello-UI.pdb
 C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\ref\cafeservello-UI.dll
+C:\Users\WillianRafael\Desktop\cafeservello\cafeservello-frontend\cafeservello-UI\obj\Debug\net10.0\cafeserv.CDC34789.Up2Date

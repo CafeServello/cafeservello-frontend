@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\wwwroot\\css\\main\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8828D870-F7D4-2C92-7DB5-ADF3E92E2A00}|cafeservello-UI\\cafeservello-UI.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-ui\\components\\layout\\sidebar\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8828D870-F7D4-2C92-7DB5-ADF3E92E2A00}|cafeservello-UI\\cafeservello-UI.csproj|solutionrelative:cafeservello-ui\\components\\layout\\sidebar\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\wwwroot\\css\\main\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\pages\\home\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\pages\\home\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|c:\\users\\willianrafael\\desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30864E37-32E0-4F6A-C9E2-311C57E4004A}|cafeservello-client\\cafeservello-client.csproj|solutionrelative:cafeservello-client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "cafeservello-client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\index.html",
+              "RelativeToolTip": "cafeservello-client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-21T03:28:38.527Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css",
-              "RelativeDocumentMoniker": "cafeservello-client\\wwwroot\\css\\main\\app.css",
-              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\app.css",
-              "RelativeToolTip": "cafeservello-client\\wwwroot\\css\\main\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-11T15:00:24.328Z",
+              "Title": "Sidebar.razor",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\Components\\Layout\\Sidebar\\Sidebar.razor",
+              "RelativeDocumentMoniker": "cafeservello-UI\\Components\\Layout\\Sidebar\\Sidebar.razor",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\Components\\Layout\\Sidebar\\Sidebar.razor",
+              "RelativeToolTip": "cafeservello-UI\\Components\\Layout\\Sidebar\\Sidebar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T03:26:26.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css",
-              "RelativeDocumentMoniker": "cafeservello-client\\wwwroot\\css\\main\\site.css",
-              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\wwwroot\\css\\main\\site.css",
-              "RelativeToolTip": "cafeservello-client\\wwwroot\\css\\main\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-11T14:42:41.105Z",
-              "EditorCaption": ""
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\Pages\\Home\\Index.razor",
+              "RelativeDocumentMoniker": "cafeservello-client\\Pages\\Home\\Index.razor",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\Pages\\Home\\Index.razor",
+              "RelativeToolTip": "cafeservello-client\\Pages\\Home\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T03:23:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "cafeservello-client\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "cafeservello-client\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T03:22:31.22Z"
             }
           ]
         }

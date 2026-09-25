@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Jprb7R8x05E=",
+  "dgSpecHash": "VYZWv56r+2k=",
   "success": true,
   "projectFilePath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
+    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.9\\microsoft.aspnetcore.authorization.10.0.9.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.9\\microsoft.aspnetcore.components.10.0.9.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\10.0.9\\microsoft.aspnetcore.components.analyzers.10.0.9.nupkg.sha512",
@@ -33,9 +33,9 @@
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.extensions.validation\\10.0.9\\microsoft.extensions.validation.10.0.9.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.jsinterop\\10.0.9\\microsoft.jsinterop.10.0.9.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.9\\microsoft.jsinterop.webassembly.10.0.9.nupkg.sha512",
-    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.11\\microsoft.net.illink.tasks.10.0.11.nupkg.sha512",
-    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.11\\microsoft.net.sdk.webassembly.pack.10.0.11.nupkg.sha512",
-    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\10.0.11\\microsoft.netcore.app.runtime.mono.browser-wasm.10.0.11.nupkg.sha512"
+    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.12\\microsoft.net.sdk.webassembly.pack.10.0.12.nupkg.sha512",
+    "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\10.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }

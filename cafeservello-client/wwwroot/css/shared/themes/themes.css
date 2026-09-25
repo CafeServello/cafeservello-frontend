@@ -1,5 +1,5 @@
 ﻿.theme-classic {
-    --bg: #0D1117;
+    --bg: linear-gradient(to right, #0F0D17 28%, #0D1417 100%);
     --text: white;
     --border: 1px solid rgba(255, 255, 255, 0.08);
     --border-main: white;

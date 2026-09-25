@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.0ti8n7egdc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0ti8n7egdc"},{"Name":"integrity","Value":"sha256-NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ="},{"Name":"label","Value":"_content/cafeservello-UI/cafeservello-UI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jul 2026 14:27:59 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Sep 2026 03:20:35 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/cafeservello-UI.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.0ti8n7egdc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jul 2026 14:27:59 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Sep 2026 03:20:35 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/image/logo/logo-white.n0y02ac8v7.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</AssetFile>

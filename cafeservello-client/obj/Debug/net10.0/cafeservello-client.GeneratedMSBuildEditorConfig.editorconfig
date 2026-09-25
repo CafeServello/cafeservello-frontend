@@ -33,12 +33,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WillianRafael/Desktop/cafeservello/cafeservello-frontend/cafeservello-client/Pages/Home/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxIb21lLnJhem9y
+[C:/Users/WillianRafael/Desktop/cafeservello/cafeservello-frontend/cafeservello-client/Pages/Home/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/WillianRafael/Desktop/cafeservello/cafeservello-frontend/cafeservello-client/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WillianRafael/Desktop/cafeservello/cafeservello-frontend/cafeservello-client/Pages/User/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/WillianRafael/Desktop/cafeservello/cafeservello-frontend/cafeservello-client/_Imports.razor]
