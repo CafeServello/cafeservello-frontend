@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {}
+    "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {
+    "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
+        "projectUniqueName": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
         "projectName": "cafeservello-client",
-        "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
-        "packagesPath": "C:\\Users\\WillianRafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-client\\obj\\",
+        "projectPath": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
+        "packagesPath": "C:\\Users\\biaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\WillianRafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\biaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
-                "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj"
+              "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
+                "projectPath": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj"
               }
             }
           }
@@ -60,7 +60,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.11, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
@@ -75,13 +75,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.11, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.11, )",
               "autoReferenced": true
             }
           },
@@ -99,7 +99,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[10.0.12, 10.0.12]"
+              "version": "[10.0.11, 10.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -390,20 +390,20 @@
         }
       }
     },
-    "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
+    "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
+        "projectUniqueName": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
         "projectName": "cafeservello-UI",
-        "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
-        "packagesPath": "C:\\Users\\WillianRafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello\\cafeservello-frontend\\cafeservello-UI\\obj\\",
+        "projectPath": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
+        "packagesPath": "C:\\Users\\biaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\biaa\\Desktop\\cafeservello-frontend\\cafeservello-UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\WillianRafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\biaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -460,7 +460,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

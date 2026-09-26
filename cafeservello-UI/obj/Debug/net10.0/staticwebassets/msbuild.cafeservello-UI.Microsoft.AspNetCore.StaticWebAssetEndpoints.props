@@ -4,25 +4,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.0ti8n7egdc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0ti8n7egdc"},{"Name":"integrity","Value":"sha256-NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ="},{"Name":"label","Value":"_content/cafeservello-UI/cafeservello-UI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Sep 2026 03:20:35 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Sep 2026 02:48:22 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/cafeservello-UI.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.0ti8n7egdc.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Sep 2026 03:20:35 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2448"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NOSRSnnqHtcRW3b6\u002BZXmbuQSzKn6Yqvb0Y6MzGhAycQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Sep 2026 02:48:22 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/image/logo/logo-white.n0y02ac8v7.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0y02ac8v7"},{"Name":"integrity","Value":"sha256-NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw="},{"Name":"label","Value":"_content/cafeservello-UI/image/logo/logo-white.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:21:21 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Sep 2026 02:41:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/image/logo/logo-white.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:21:21 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Sep 2026 02:41:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
