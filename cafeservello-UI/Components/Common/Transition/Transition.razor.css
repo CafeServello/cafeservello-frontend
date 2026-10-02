@@ -1,5 +1,6 @@
 .page {
     animation: page-enter 220ms cubic-bezier(.2, .8, .2, 1);
+    height: 100%;
 }
 
 @keyframes page-enter {

@@ -58,6 +58,7 @@
 /* _content/cafeservello-UI/Components/Common/Transition/Transition.razor.rz.scp.css */
 .page[b-23dza51jd7] {
     animation: page-enter-b-23dza51jd7 220ms cubic-bezier(.2, .8, .2, 1);
+    height: 100%;
 }
 
 @keyframes page-enter-b-23dza51jd7 {
